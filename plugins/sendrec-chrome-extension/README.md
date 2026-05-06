@@ -2,8 +2,8 @@
 
 A Chrome/Chromium browser extension for recording your screen and uploading directly to [SendRec](https://app.sendrec.eu) or a self-hosted instance.
 
-![SendRec Chrome Extension — Popup](screenshots/popup.png)
-![SendRec Chrome Extension — Settings](screenshots/settings.png)
+![SendRec Chrome Extension — Popup](screenshots/popup_light.png)
+![SendRec Chrome Extension — Settings](screenshots/settings_light.png)
 
 ## Features
 
